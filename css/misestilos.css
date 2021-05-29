@@ -1,0 +1,57 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Teko:wght@600&display=swap');
+body{font-family: 'Roboto', sans-serif;
+	font-size:1rem;
+		
+}
+.btn-naranja{color:#FFFFFF;
+background-color:#E4AA41;
+border: 1px solid #d25400;}
+.btn-naranja:hover{color:#FFFFFF;
+background-color:#EAB65C;
+border: 1px solid #ff6500;}
+
+.btn-dark{border:1px solid #EAB65C}
+
+a{color:#BE8219;}
+a:hover{color:#EAB459;}
+
+.bd-amarillo{border-style:solid ;border-color:#E4AB40;border-width:10px}
+
+.bd-linea{border-style: solid; border-color:#F7BC4A;  }
+
+h1,.h1{font-family: 'Teko', sans-serif;
+        font-size:3.25rem;
+        color:hsla(38,77%,64%,1.00)}
+h2,.h2{font-size:2rem;
+       font-weight: 900;}
+h3,.h3{font-size:1.65rem;
+       font-weight:600;}
+h4,.h4{font-size:1.25rem;
+       font-weight:400;}
+h5,.h5{font-size:1rem;
+      font-weight:300}
+
+
+
+
+
+.blanco{color:#FFFFFF}
+
+.fondo-imagen{background-position: center;background-size: cover;}
+
+.bg-mostaza{background-color:#E3AA3F}
+
+.bg-marron{background-color:#414042}
+
+.bg-negro{background-color:#000000}
+
+.bg-opacidad{background-color:rgba(43,33,33,0.78);}
+
+#menu .navbar-nav a{color:#1C100B;}
+#menu .navbar-nav a:hover{color:#EAB459;}
+
+.slider-1{background-image:url("../images/slider 1.jpg");}
+.slider-2{background-image:url("../images/slider 2.jpg");}
+.slider-3{background-image:url("../images/contactofondo.jpg");}
+.slider-4{background-image:url("../images/slider 3.jpg");}
